@@ -1,2 +1,2 @@
 # AppForPdf
-First app for Pdf
+App for handling PDF files
